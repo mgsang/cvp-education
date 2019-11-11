@@ -1,16 +1,20 @@
 
-## Arista Networks CVP Demo Lab_v1
+# Arista Networks CVP Education
 
+---
+#### Arista Networks : 11월 12일 ~ 14일
 
-***
+---
+#### 실습 가이드
+
 * Lab 접속 방법
 
-Lab1 ~ 7 : arista02.showing.kr
-Lab8 ~ 14 : arista01.showing.kr
+>Lab1 ~ 7 : arista02.showing.kr<br>
+>Lab8 ~ 14 : arista01.showing.kr
 
 
-* CVP 설치 후 접속 방법
-121.138.134.{A}
+* CVP 설치 후 접속 방법<br>
+https://121.138.134.{A}<br>
 ※ 192.168.200.A 마지막 A 를 입력
 
 
