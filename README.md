@@ -8,11 +8,11 @@
 #### 실습 가이드
 
 - Lab 접속 방법 : arista01.showing.kr
-  - [lab-11](lab11.showing.kr)
-  - [lab-12](lab12.showing.kr)
-  - [lab-13](lab13.showing.kr)
-  - [lab-14](lab14.showing.kr)
-  - [lab-15](lab15.showing.kr)
+  - [lab-11](https://lab11.showing.kr)
+  - [lab-12](https://lab12.showing.kr)
+  - [lab-13](https://lab13.showing.kr)
+  - [lab-14](https://lab14.showing.kr)
+  - [lab-15](https://lab15.showing.kr)
 
 - Telnet Program
   - [Putty Download](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
