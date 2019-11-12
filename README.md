@@ -7,13 +7,15 @@
 ---
 #### 실습 가이드
 
-* Lab 접속 방법
-arista01.showing.kr
-- lab-11
-- lab-12
-- lab-13
-- lab-14
-- lab-15
+- Lab 접속 방법 : arista01.showing.kr
+  - id : lab-11
+  - id : lab-12
+  - id : lab-13
+  - id : lab-14
+  - id : lab-15
+
+- Telnet Program
+  - [Windows Download](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
 
 
 * CVP 설치 후 접속 방법<br>
