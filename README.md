@@ -15,7 +15,7 @@
   - [lab-15](lab15.showing.kr)
 
 - Telnet Program
-  - [Windows Download](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
+  - [Putty Download](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
 
 
 * CVP 설치 후 접속 방법<br>
