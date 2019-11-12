@@ -8,9 +8,12 @@
 #### 실습 가이드
 
 * Lab 접속 방법
-
->Lab1 ~ 7 : arista02.showing.kr<br>
->Lab8 ~ 14 : arista01.showing.kr
+arista01.showing.kr
+- lab-11
+- lab-12
+- lab-13
+- lab-14
+- lab-15
 
 
 * CVP 설치 후 접속 방법<br>
