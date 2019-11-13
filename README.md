@@ -44,4 +44,12 @@ systemctl enable dhcpd.service
 systemctl start dhcpd.service 
 ```
 
+---
+Appendix.
+* Software Download tab
+https://www.arista.com/en/support/software-download
+
+* CloudVision Portal (CVP) Setup
+https://www.arista.com/en/cg-cv/cv-cloudvision-portal-cvp-setup
+
 
