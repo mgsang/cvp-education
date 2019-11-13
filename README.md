@@ -5,7 +5,7 @@
 #### Arista Networks : 11월 12일 ~ 14일
 
 ---
-#### 실습 가이드
+## 실습 가이드
 <img src="https://github.com/mgsang/cvp-education/blob/master/education_map.png" width="450px" height="300px"></img>
 
 - Lab 접속 방법 : [arista01.showing.kr](http://arista01.showing.kr)
