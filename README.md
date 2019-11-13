@@ -16,10 +16,10 @@
     - [lab-14](https://lab14.showing.kr)
 - Lab 접속 방법 : [arista02.showing.kr](http://arista02.showing.kr)
   - Lab CVP 접속 방법 : 
-    - [lab-1](https://lab1.showing.kr)
-    - [lab-2](https://lab2.showing.kr)
-    - [lab-3](https://lab3.showing.kr)
-    - [lab-4(Reserved)](https://lab4.showing.kr)
+    - [lab-1](https://lab-1.showing.kr)
+    - [lab-2](https://lab-2.showing.kr)
+    - [lab-3](https://lab-3.showing.kr)
+    - [lab-4(Reserved)](https://lab-4.showing.kr)
 
 * Configlet Import File<br>
 [ExportedConfigletsData-7](https://drive.google.com/open?id=14zsCAc2TuIK8Aq76MpigYHi-RDR7WUx6)
