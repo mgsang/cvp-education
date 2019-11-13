@@ -46,13 +46,13 @@ systemctl start dhcpd.service
 
 ---
 ## Appendix.
-* Software Download tab
+* Software Download tab<br>
 https://www.arista.com/en/support/software-download
 
-* CloudVision Portal (CVP) Setup
+* CloudVision Portal (CVP) Setup<br>
 https://www.arista.com/en/cg-cv/cv-cloudvision-portal-cvp-setup
 
-* Compliance Check Token download
+* Compliance Check Token download<br>
  https://www.arista.com/en/users/profile
 
 
