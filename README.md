@@ -7,12 +7,16 @@
 ---
 #### 실습 가이드
 
-- Lab 접속 방법 : arista01.showing.kr
+- Lab 접속 방법 : [arista01.showing.kr](http://arista01.showing.kr)
   - [lab-11](https://lab11.showing.kr)
   - [lab-12](https://lab12.showing.kr)
   - [lab-13](https://lab13.showing.kr)
   - [lab-14](https://lab14.showing.kr)
-  - [lab-15](https://lab15.showing.kr)
+- Lab 접속 방법 : [arista02.showing.kr](http://arista02.showing.kr)
+  - [lab-1](https://lab1.showing.kr)
+  - [lab-2](https://lab2.showing.kr)
+  - [lab-3](https://lab3.showing.kr)
+  - [lab-4](https://lab4.showing.kr)
 
 - Telnet Program
   - [Putty Download](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
