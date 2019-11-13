@@ -9,20 +9,24 @@
 <img src="https://github.com/mgsang/cvp-education/blob/master/education_map.png" width="450px" height="300px"></img>
 
 - Lab 접속 방법 : [arista01.showing.kr](http://arista01.showing.kr)
+- Lab CVP 접속 방법 : 
   - [lab-11](https://lab11.showing.kr)
   - [lab-12](https://lab12.showing.kr)
   - [lab-13](https://lab13.showing.kr)
   - [lab-14](https://lab14.showing.kr)
 - Lab 접속 방법 : [arista02.showing.kr](http://arista02.showing.kr)
+- Lab CVP 접속 방법 : 
   - [lab-1](https://lab1.showing.kr)
   - [lab-2](https://lab2.showing.kr)
   - [lab-3](https://lab3.showing.kr)
   - [lab-4](https://lab4.showing.kr)
 
+* Configlet Import File<br>
+[ExportedConfigletsData-7](https://drive.google.com/open?id=14zsCAc2TuIK8Aq76MpigYHi-RDR7WUx6)
 
-* CVP 설치 후 접속 방법<br>
-https://121.138.134.{A}<br>
-※ 192.168.200.A 마지막 A 를 입력
+
+--- 
+## Pre-Configuration
 
 * dhcp 설정
 ~~~
@@ -38,5 +42,4 @@ systemctl enable dhcpd.service
 systemctl start dhcpd.service 
 ```
 
-* Configlet Import File<br>
-[ExportedConfigletsData-7](https://drive.google.com/open?id=14zsCAc2TuIK8Aq76MpigYHi-RDR7WUx6)
+
