@@ -45,7 +45,7 @@ systemctl start dhcpd.service
 ```
 
 ---
-Appendix.
+## Appendix.
 * Software Download tab
 https://www.arista.com/en/support/software-download
 
