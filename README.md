@@ -52,4 +52,7 @@ https://www.arista.com/en/support/software-download
 * CloudVision Portal (CVP) Setup
 https://www.arista.com/en/cg-cv/cv-cloudvision-portal-cvp-setup
 
+* Compliance Check Token download
+ https://www.arista.com/en/users/profile
+
 
