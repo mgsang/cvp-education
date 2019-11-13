@@ -19,7 +19,7 @@
     - [lab-1](https://lab1.showing.kr)
     - [lab-2](https://lab2.showing.kr)
     - [lab-3](https://lab3.showing.kr)
-    - [lab-4](https://lab4.showing.kr)
+    - [lab-4(Reserved)](https://lab4.showing.kr)
 
 * Configlet Import File<br>
 [ExportedConfigletsData-7](https://drive.google.com/open?id=14zsCAc2TuIK8Aq76MpigYHi-RDR7WUx6)
