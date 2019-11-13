@@ -6,6 +6,7 @@
 
 ---
 #### 실습 가이드
+<img src="https://drive.google.com/open?id=1erQfxUwqWxH9Prvdc_LJKZa6nh9YnwwZ" width="450px" height="300px"></img>
 
 - Lab 접속 방법 : [arista01.showing.kr](http://arista01.showing.kr)
   - [lab-11](https://lab11.showing.kr)
@@ -17,9 +18,6 @@
   - [lab-2](https://lab2.showing.kr)
   - [lab-3](https://lab3.showing.kr)
   - [lab-4](https://lab4.showing.kr)
-
-- Telnet Program
-  - [Putty Download](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
 
 
 * CVP 설치 후 접속 방법<br>
