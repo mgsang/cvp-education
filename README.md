@@ -6,7 +6,7 @@
 
 ---
 ## 실습 가이드
-<img src="https://github.com/mgsang/cvp-education/blob/master/education_map.jpg" width="450px" height="300px"></img>
+<img src="https://github.com/mgsang/cvp-education/blob/master/education_map.jpg" width="450px" height="300px"></img><br>
 
 - Lab 접속 방법 : [arista01.showing.kr](http://arista01.showing.kr)
   - Lab CVP 접속 방법 : 
