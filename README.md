@@ -22,7 +22,7 @@
     - [lab-4(Reserved)](https://lab-4.showing.kr)
 
 * Configlet Import File<br>
-[ExportedConfigletsData-7](https://drive.google.com/open?id=14zsCAc2TuIK8Aq76MpigYHi-RDR7WUx6)
+[ExportedConfigletsData-8](https://drive.google.com/open?id=1Jr6n-9LS3qvuRO5JM3FqFKMhag9Ibz5K)
 
 
 --- 
